@@ -1,0 +1,18 @@
+
+Domain: Domain_NDAInforma
+Host: NDAInforma
+Port: 6005
+
+Native
+
+
+Repository name: BII15MARBLORE
+INTEGRATION SERVICE NAME: BII15MARBLORE
+
+User ID: TRG1-TRG40
+Passwords: TRG1-TRG40
+
+
+For Shared files required for lab purpose, location on server is as given here:
+
+\\ndainforma\SrcFiles
